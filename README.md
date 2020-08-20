@@ -1,0 +1,2 @@
+# celery_rabbitmq_demo
+celery_rabbitmq_demo
